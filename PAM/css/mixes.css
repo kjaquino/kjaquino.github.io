@@ -1,0 +1,16 @@
+body{
+	font-family: courier;
+}
+
+
+a {
+    color: black;
+}
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+.footer{
+	color: black;
+}
